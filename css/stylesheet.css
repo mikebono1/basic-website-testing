@@ -4,3 +4,18 @@ html{
 p{
     color:maroon;
 }
+a:visited{
+    color:purple;
+    text-decoration: underline;
+    background-color: transparent;
+}
+a:link{
+    color:blue;
+    text-decoration: underline;
+    background-color: transparent;
+}
+a:hover{
+    color:crimson;
+    text-decoration: bold;
+    background-color: transparent;
+}
