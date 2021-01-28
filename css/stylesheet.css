@@ -16,6 +16,7 @@ a:link{
 }
 a:hover{
     color:crimson;
-    text-decoration: bold;
+    text-decoration: none;
+    text-decoration-style: wavy;
     background-color: transparent;
 }
